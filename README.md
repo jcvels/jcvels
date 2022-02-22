@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**jcvels/jcvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jorge! I'm electronic technician and love software developing. I work as Head of Engineering at Newsan and also, as Software Developer at [**@uvcoding-ar**](https://uvcoding.com.ar). I'm addicted to aviation world 🛫
 
-Here are some ideas to get you started:
+### 💻 Currently working on
+- *Notebooks testing suite (JS).*
+- *Customized Project Management System (JS).*
+- *ANDON System (JS).*
+- *WordPress CustomerService PlugIn (PHP).*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently learning about
+- *ReactJS.*
+- *Andon Lean Manufacturing.*
+- *Google Adwords.*
+
+### 🌱 Always learning about
+- *Parenthood*
+- *Leadership.*
+
+`</jcvels>`
