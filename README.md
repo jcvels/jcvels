@@ -5,13 +5,9 @@ My name is Jorge! I'm electronic technician and love software developing. I work
 ### 💻 Currently working on
 - *Notebooks testing suite (JS).*
 - *Customized Project Management System (JS).*
-- *ANDON System (JS).*
-- *WordPress CustomerService PlugIn (PHP).*
 
 ### 🔭 Currently learning about
-- *ReactJS.*
 - *Andon Lean Manufacturing.*
-- *Google Adwords.*
 
 ### 🌱 Always learning about
 - *Parenthood*
